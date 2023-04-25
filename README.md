@@ -5,6 +5,9 @@
 - 📫 How to reach me dylan.pinheiro.1997@gmail.com
 - 🎨 Visit my portfolio on [dylanp97.com](https://dylanp97.com/)
 
+
+<img align="center" src="assets/coding-freak.gif" />
+
 <!---
 DylanP97/DylanP97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
