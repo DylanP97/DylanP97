@@ -7,6 +7,7 @@
 - 📫 Reach me at dylan.pinheiro.1997@gmail.com
 - 🎨 Visit my portfolio on [dylanp97.com](https://dylanp97.com/)
 
+
 <img align="center" src="photo-1619410283995-43d9134e7656.jpeg" />
 
 <!---
