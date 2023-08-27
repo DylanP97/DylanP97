@@ -2,9 +2,9 @@
 
 
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning new languages
+- 🌱 I’m experienced in TypeScript, and NextJS
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me dylan.pinheiro.1997@gmail.com
+- 📫 Reach me at dylan.pinheiro.1997@gmail.com
 - 🎨 Visit my portfolio on [dylanp97.com](https://dylanp97.com/)
 
 <img align="center" src="photo-1619410283995-43d9134e7656.jpeg" />
