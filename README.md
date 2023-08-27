@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi, I’m @DylanP97</h1>
+<link rel="stylesheet" type="text/css" href="style.css"/>
 
+<h1 align="center">👋 Hi, I’m @DylanP97</h1>
 
 - 👀 I’m interested in full stack web development
 - 🌱 I’m experienced in TypeScript, and NextJS
