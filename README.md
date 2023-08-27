@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css"/>
-
 <h1 align="center">👋 Hi, I’m @DylanP97</h1>
 
 - 👀 I’m interested in full stack web development
@@ -11,7 +9,12 @@
 
 <img align="center" src="photo-1619410283995-43d9134e7656.jpeg" />
 
-<div class="container">
+<div style={{
+      overflow: "auto",
+  display: "flex",
+  scrollSnapType: "x mandatory",
+  gap: "1rem",
+}}>
     <div class="item">
       <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/14a35c8c-dcd1-462d-97f7-1bddb677184c/dunk-low-lx-womens-shoes-kPGHX0.png" />
       <div class="item-footer">
