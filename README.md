@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @DylanP97</h1>
 
 - 👀 I’m interested in full stack web development
-- 🌱 I’m experienced in TypeScript, and NextJS
+- 🌱 I’m experienced in TypeScript and NextJS
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me at dylan.pinheiro.1997@gmail.com
 - 🎨 Visit my portfolio on [dylanp97.com](https://dylanp97.com/)
