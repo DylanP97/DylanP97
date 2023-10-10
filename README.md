@@ -7,6 +7,9 @@
 - 🎨 Visit my portfolio on [dylanp97.com](https://dylanp97.com/)
 
 
+[![An image of @dylanp97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dylanp97)](https://holopin.io/@dylanp97)
+
+
 <img align="center" src="photo-1619410283995-43d9134e7656.jpeg" />
 
 <!---
