@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm @DylanP97</h1>
   <p>I'm a full-stack web developer with a passion for creating awesome projects.</p>
+  <hr/>
   <a href="https://dylanp97.com/" target="_blank">Visit my portfolio</a>
 </div>
 
