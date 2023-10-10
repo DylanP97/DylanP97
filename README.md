@@ -1,19 +1,22 @@
-<h1 align="center">👋 Hi, I’m @DylanP97</h1>
-
-<div align="right">
-- 👀 I’m interested in full stack web development
-- 🌱 I’m experienced in TypeScript and NextJS
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 Reach me at dylan.pinheiro.1997@gmail.com
-- 🎨 Visit my portfolio on [dylanp97.com](https://dylanp97.com/)
+<div align="center">
+  <h1>👋 Hi, I'm @DylanP97</h1>
+  <p>I'm a full-stack web developer with a passion for creating awesome projects.</p>
+  <a href="https://dylanp97.com/" target="_blank">Visit my portfolio</a>
 </div>
 
-[![An image of @dylanp97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dylanp97)](https://holopin.io/@dylanp97)
+![Profile](https://holopin.me/dylanp97)
 
+<div align="center">
+  <h2>👀 Interests</h2>
+  <p>I'm interested in full-stack web development and love working with TypeScript and Next.js.</p>
+</div>
 
-<img align="center" src="photo-1619410283995-43d9134e7656.jpeg" />
+<div align="center">
+  <h2>💼 Looking to Collaborate</h2>
+  <p>I'm open to collaborating on interesting projects. Feel free to reach out to me:</p>
+  <p>Email: dylan.pinheiro.1997@gmail.com</p>
+</div>
 
-<!---
-DylanP97/DylanP97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="photo-1619410283995-43d9134e7656.jpeg" alt="Profile Photo" />
+</div>
