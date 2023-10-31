@@ -18,7 +18,3 @@
   <p>I'm open to collaborating on interesting projects. Feel free to reach out to me:</p>
   <p>Email: dylan.pinheiro.1997@gmail.com</p>
 </div>
-
-<div align="center">
-  <img src="photo-1619410283995-43d9134e7656.jpeg" alt="Profile Photo" />
-</div>
